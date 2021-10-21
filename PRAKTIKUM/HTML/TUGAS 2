@@ -1,1 +1,40 @@
+<html>
+	<head>
+	<tittle>TUGAS PRAKTIKUM 2</tittle>
+    <h1>SELAMAT DATANG</h1>
+    <p><i>MARI BELAJAR DENGAN GIAT!!</i></p>
+	</head>
+  <h1>INI PARAGRAF 1</h1>
+  <br />
+  <h1> INI PARAGRAF 2<h1>
+<hr>
+  </p>Saya sedang belajar HTML di
+    <a href= "https://unipma.ac.id">UNIVERSITAS PGRI MADIUN</a></p>
 
+	<body bgcolor =#E9967A>
+    <img src="http://pics.unipma.ac.id/content/fasilitas/MAKNALAMBANG_02_06_2020_07_22_02logo.png" alt="Tentang Universitas PGRI MADIUN" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 250px; height: 250px; margin: 0px;">
+  	<h1>Membuat Tabel</h1> <table border="1">
+	<tr>
+		<td>Baris 1, Kolom 1</td>
+		<td>Baris 1, Kolom 2</td>
+		<td>Baris 1, Kolom 3</td>
+   		 <td>Baris 1, Kolom 4</td>
+	</tr> 
+	<tr>
+		<td>Baris 2, Kolom 1</td>
+		<td>Baris 2, Kolom 2</td>
+		<td>Baris 2, Kolom 3</td>
+    		<td>Baris 2, Kolom 4</td>
+     </ol 
+ <h>DAFTAR NEGARA DI ASIA TENGGARA </h>
+  <ol type="I">
+  <li>Indonesia</li>
+  <li>Malaysia</li>
+  <li>Brunei Darusallam</li>
+  <li>Singapura</li>
+  <li>Filipina</li>
+  <li>Vietnam</li>
+ 
+     <ol type="I">
+	</body>
+</html>
